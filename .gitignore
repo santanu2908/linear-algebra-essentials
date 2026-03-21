@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python environment files
+*.egg-info/
+.eggs/
+*.egg
+
+# Test, coverage, and logs
+*.log
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Distribution / packaging
+build/
+dist/
+*.wheel
+
+# Scripts output
+*.out
+
+# Ignore requirements freeze output if not tracked
+pip-log.txt
+
+# Ignore data files (if any)
+data/
